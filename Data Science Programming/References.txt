@@ -1,0 +1,14 @@
+
+1b : https://www.edlitera.com/en/blog/posts/pandas-add-rename-remove-columns#:~:text=the%20inplace%20argument.-,How%20to%20Remove%20Columns%20From%20a%20DataFrame,want%20to%20modify%20our%20DataFrame.
+
+1g : https://www.educative.io/blog/scikit-learn-tutorial-linear-regression
+
+1h : https://donaldpinckney.com/books/pytorch/book/ch2-linreg/2018-03-21-multi-variable.html
+1h : https://www.geeksforgeeks.org/linear-regression-using-pytorch/
+
+1i : https://machinelearningmastery.com/pytorch-tutorial-develop-deep-learning-models/
+
+2f : https://www.r-bloggers.com/2021/11/how-to-make-stunning-histograms-in-r-a-complete-guide-with-ggplot2/#google_vignette
+2f : http://www.sthda.com/english/wiki/correlation-analyses-in-r
+2f : https://cran.r-project.org/web/packages/corrplot/vignettes/corrplot-intro.html
+2f : https://www.r-bloggers.com/2021/06/qq-plots-in-r-quantile-quantile-plots-quick-start-guide/
